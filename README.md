@@ -16,6 +16,7 @@
 ## 🛠️ Technical Skills
 
 ### 🔹 Programming Languages
+<img src="https://skillicons.dev/icons?i=python,java,php,html,css" />
 - Python  
 - C / C++  
 - Java (Basics)  
