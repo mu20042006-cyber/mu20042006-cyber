@@ -17,8 +17,7 @@
 
 ### 🔹 Programming Languages
 <img src="https://skillicons.dev/icons?i=python,java,php,html,css,c,c++" />
-### 🔹 Data Science & ML
-<img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,matplotlib,seaborn" />
+### 🔹 Data Science & Ml
 - NumPy  
 - Pandas  
 - Matplotlib  
