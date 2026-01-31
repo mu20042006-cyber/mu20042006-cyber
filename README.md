@@ -1,8 +1,6 @@
-## Hi 👋, I'm Menna Ahmed  
-🎓 Data Science Student  
-💻 Passionate about Machine Learning & Artificial Intelligence  
-📊 Interested in Data Analysis & Predictive Modeling  
--- web development
+# Menna Ahmed 👋  
+Computer Science Student | Data Science & Machine Learning Enthusiast  
+
 ---
 
 ## 🚀 About Me
@@ -11,45 +9,68 @@
 - 🧠 Love working with data and solving real-world problems  
 - 🌱 Always learning and improving my skills  
 
+---  
+ 
+## 💻 Programming Languages
+- Python  
+- Java  
+- C  
+- C++  
+- SQL
+- PHP
+
 ---
 
-## 🛠️ Technical Skills
+## 🌐 Web Technologies
+- HTML5  
+- CSS3  
 
-### 🔹 programming language 
+---
 
- **-python**
- -java
- -php
- -html
- -css
- -c & c++
-
-### 🔹 Data Science & Ml
-
-- NumPy  
-- Pandas  
-- Matplotlib  
-- Seaborn  
-- Scikit-learn  
-- Machine Learning  
-- Data Cleaning & Preprocessing  
-
-### 🔹 Tools
-
-- Jupyter Notebook ---
-- Power BI (Basics)  
+## 🛠 Tools & Technologies
+- Git & GitHub  
+- Google Colab   
+- Power BI  
+- Cisco Packet Tracer  
+- MySQL  
+- SQL Server  
 - VS CODE
-- SQL SERVER
-- MySQL
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MennaAhmed&show_icons=true&theme=tokyonight)
+## 📊 Data Science & Machine Learning
+- Data Analysis  
+- Data Cleaning & Preprocessing  
+- Feature Engineering  
+- Machine Learning Models  
+- Deep Learning (CNN)  
+- Regression, Classification & Clustering  
 
 ---
 
-## 🔥 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MennaAhmed&layout=compact&theme=tokyonight)
+## 📌 Projects
+- System Analysis for School Management  
+- Event Management System (Java, OOP)  
+- University Network System  
+- Educational Platform (HTML, CSS, JS)  
+- Machine Learning Project  
+- CNN-Based Image Classification Project  
+- Database Security Project – Secure Student Records System  
+- Sales & Returns Analysis Dashboard – Power BI  
+
+---
+
+## 📚 Courses & Training
+- Sprints & Microsoft – AI & ML Summer Camp  
+- DataCamp – Introduction to Python  
+- DataCamp – Introduction to SQL  
+- IEEE – Front-End Development Course  
+- DataCamp – Modeling Time Series Data with Deep Learning  
+- Data Analysis Training – MCIT & Microsoft  
+
+---
+
+## 📄 CV
+📎 [View My CV](https://drive.google.com/file/d/1qsA9PjQMd9TdImoXkut6TQOdsWdbQ9_x/view?usp=sharing)
 
 ---
 
