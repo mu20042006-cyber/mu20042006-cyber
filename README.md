@@ -77,3 +77,4 @@ Computer Science Student | Data Science & Machine Learning Enthusiast
 ## 🔗 Connect With Me
 - GitHub: https://github.com/MennaAhmed
 - LinkedIn (https://www.linkedin.com/in/menna-ahmed-1198932b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- Email : mu20042006@gmail.com 
