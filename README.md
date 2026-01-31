@@ -17,12 +17,12 @@
 
 ### programming language 
 
--python
--java
--php
--html
--css
--c&c++
+ -python
+ -java
+ -php
+ -html
+ -css
+ -c & c++
 
 ### 🔹 Data Science & Ml
 
