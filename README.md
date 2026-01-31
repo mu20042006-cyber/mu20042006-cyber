@@ -15,9 +15,9 @@
 
 ## 🛠️ Technical Skills
 
-### programming language 
+### 🔹 programming language 
 
- -python
+ **-python**
  -java
  -php
  -html
