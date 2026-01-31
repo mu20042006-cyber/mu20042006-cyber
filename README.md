@@ -15,9 +15,17 @@
 
 ## 🛠️ Technical Skills
 
-### 🔹 Programming Languages
-<img src="https://skillicons.dev/icons?i=python,java,php,html,css,c,c++" />
+### programming language 
+
+-python
+-java
+-php
+-html
+-css
+-c&c++
+
 ### 🔹 Data Science & Ml
+
 - NumPy  
 - Pandas  
 - Matplotlib  
@@ -27,10 +35,12 @@
 - Data Cleaning & Preprocessing  
 
 ### 🔹 Tools
+
 - Jupyter Notebook ---
 - Power BI (Basics)  
 - VS CODE
 - SQL SERVER
+- MySQL
 ---
 
 ## 📊 GitHub Stats
